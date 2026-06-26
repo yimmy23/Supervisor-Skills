@@ -31,25 +31,17 @@ Our vision is simple: **Let AI become your true, always-on research co-advisor.*
 
 **WeChat Discussion Group**
 
-Scan the QR code on the left to join our community. If the group QR code has expired, add the admin on WeChat (`xyp619`) with the remark **"Supervisor-Skills + your name"**.
+The group has exceeded 200 members and can no longer be joined via QR code. Please scan to add the admin on WeChat (`xyp619`) with the remark **"Supervisor-Skills + your name"** to be invited in.
 
 By joining, you get:
 - 🔔 First-hand updates on new Skills and Handbook releases
 - 💬 Exchange paper writing and AI-assisted research tips with peers
 - 🎙️ Join occasional online Q&A and experience-sharing sessions
 
-<table>
-  <tr>
-    <td align="center" width="300">
-      <img src="assets/images/wechat-group.JPG" height="340" />
-      <br/><sub>Group QR code (valid for 7 days; add the admin if expired)</sub>
-    </td>
-    <td align="center" width="300">
-      <img src="assets/images/wechat-admin.JPG" height="280" />
-      <br/><sub>Admin WeChat: xyp619</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="assets/images/wechat-admin.JPG" height="320" />
+  <br/><sub>Admin WeChat: xyp619</sub>
+</div>
 
 ## Tutorial structure
 
